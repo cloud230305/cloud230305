@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @cloud230305
 - 👀 I’m interested in full-stack
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript,typescript,react
